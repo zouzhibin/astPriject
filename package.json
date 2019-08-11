@@ -16,7 +16,7 @@
     "esprima": "^4.0.1",
     "estraverse": "^4.2.0",
     "html-webpack-plugin": "^3.2.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "style-loader": "^0.23.1",
